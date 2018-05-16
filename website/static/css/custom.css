@@ -1,0 +1,68 @@
+/* your custom css */
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+}
+
+@media only screen and (min-width: 1024px) {
+}
+
+@media only screen and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1400px) {
+}
+
+@media only screen and (min-width: 1500px) {
+}
+
+.fixedHeaderContainer {
+    background-color: #1c2b36;
+    position: relative;
+    background-image: url("https://d2sl9eawlu179j.cloudfront.net/img/bgs/triangles.png");
+}
+
+.separateOnPageNav.doc .wrapper, .separateOnPageNav .headerWrapper.wrapper {
+    max-width: 1100px;
+}
+
+nav.toc .toggleNav {
+    background: none;
+    color: #393939;
+    position: relative;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+nav.toc .toggleNav .navGroup.navGroupActive {
+    background: none;
+}
+
+nav.toc .toggleNav .navGroup.navGroupActive h3 {
+    background: transparent;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+nav.toc .toggleNav .navGroup.navGroupActive h3 {
+    color: #333 !important;
+    font-size: 14px !important;
+    font-weight: bold !important;
+}
+
+a {
+    color: #6254b2;
+    text-decoration: none;
+}
+
+blockquote {
+    background-color: rgba(114, 102, 186, 0.1);
+    border-left: 5px solid rgba(114, 102, 186, 0.2);
+}
+
+blockquote p img + strong {
+    color: rgba(114, 102, 186, 1);
+}
+
+blockquote p img {
+    display: inline-block;
+}

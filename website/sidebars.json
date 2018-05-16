@@ -1,0 +1,14 @@
+{
+  "docs": {
+    "Primeiros passos": ["visao-geral", "cadastro", "login", "esqueceu-senha"],
+    "Painel de controle": ["conhecendo-painel"],
+    "Solicitações": ["solicitacoes-servicos"],
+    "Catálogo Digital": ["atualizando-catalogo"],
+    "Co-expositor": ["cadastrando-co-expositor"],
+    "Credenciais": ["emitindo-credenciais"],
+    "Associação de Parceiros": ["associando-montador", "atualizar-informacoes-montador", "removendo-associacao-montador", "associando-prestador", "atualizar-informacoes-prestador", "removendo-associacao-prestador"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
